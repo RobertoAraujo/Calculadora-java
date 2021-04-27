@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Divisao {
 	int numero1;
 	int numero2;
-	
+	// method 
 	public int divisao() {
 		int resultado = (numero1 / numero2);
 		return resultado;

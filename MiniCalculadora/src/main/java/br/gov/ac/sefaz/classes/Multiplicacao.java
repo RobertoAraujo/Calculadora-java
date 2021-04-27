@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Multiplicacao {
 	int numero1;
 	int numero2;
-	
+	// method 
 	public int multiplicacao() {
 		int resultado = (numero1 * numero2);
 		return resultado;
