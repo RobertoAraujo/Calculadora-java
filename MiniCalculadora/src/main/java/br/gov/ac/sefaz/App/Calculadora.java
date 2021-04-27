@@ -11,7 +11,7 @@ public class Calculadora {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
-		
+		// aqui faz lup
  		while(true) {
 
 			System.out.println(" [ Seja Bem! vindo a nossa Calculadora ! ] ");
