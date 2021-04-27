@@ -9,7 +9,7 @@ public class Subtracao implements Serializable{
 	
 	int numero1;
 	int numero2;
-	
+	// method 
 	public int subtracao() {
 		int resultado = (numero1 - numero2);
 		return resultado;
