@@ -6,7 +6,11 @@ import br.gov.ac.sefaz.classes.Divisao;
 import br.gov.ac.sefaz.classes.Multiplicacao;
 import br.gov.ac.sefaz.classes.Soma;
 import br.gov.ac.sefaz.classes.Subtracao;
-
+/**
+ * 
+ * @author Roberto Moraes
+ *
+ */
 public class Calculadora {
 
 	public static void main(String[] args) {
@@ -24,7 +28,7 @@ public class Calculadora {
 			System.out.println(" Ecolha sua opção : ");
 			int opcao = entrada.nextInt();
 			
-				
+				// lera opção com switch case 
 			switch (opcao) {
 
 			case 1:
